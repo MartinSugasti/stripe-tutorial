@@ -1,24 +1,6 @@
-# README
+# Stripe
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project has the only purpose of practicing with Stripe (payment method).
 
-Things you may want to cover:
+https://user-images.githubusercontent.com/56696387/155977452-3ec7c3e3-53c1-49ee-bda8-6ff532253fc1.mov
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
